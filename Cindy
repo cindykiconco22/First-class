@@ -1,0 +1,7 @@
+Private class Winter
+{
+Private static void main String [] args 
+{
+System.out.printIn (" This is my first class");
+}
+}
